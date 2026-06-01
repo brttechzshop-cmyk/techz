@@ -1,2 +1,0 @@
-# techz
-website
